@@ -1,3 +1,10 @@
+'''
+Rafael Passador
+09/23
+Desafio F1RST - Enghenaria de Dados
+'''
+
+#Utilizando o padrão de projeto Singleton, que garante que apenas uma instância da classe seja criada,
 class AnimalSound:
     _instance = None
     _history = []

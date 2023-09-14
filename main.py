@@ -1,5 +1,12 @@
+'''
+Rafael Passador
+09/23
+Desafio F1RST - Enghenaria de Dados
+'''
+
 from animal_sound import AnimalSound
 
+#Função principal que recebe a entrada do usuário e chama as funções necessárias1
 def main():
     animal_sound = AnimalSound()
 
