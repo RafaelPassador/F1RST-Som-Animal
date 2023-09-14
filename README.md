@@ -25,3 +25,19 @@ Input: histórico
 Output: 1 Miau
  2 Auau
  2 Auau
+
+***
+
+ ## Como utilizar o programa
+
+Para usar o programa, siga os passos abaixo:
+
+1. Abra o terminal ou prompt de comando.
+
+2. Navegue até o diretório onde o programa está localizado.
+
+3. Execute o seguinte comando para iniciar o programa:
+
+```bash
+python main.py
+
